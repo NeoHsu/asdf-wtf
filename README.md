@@ -6,6 +6,10 @@
 
 </div>
 
+## Build History
+
+[![Build history](https://buildstats.info/github/chart/NeoHsu/asdf-wtfutil?branch=master)](https://github.com/NeoHsu/asdf-wtfutil/actions)
+
 # Contents
 
 - [Dependencies](#dependencies)
